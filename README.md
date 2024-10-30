@@ -1,19 +1,16 @@
-# Estoque
+# Stock-It 📦
+Um aplicativo simples e eficaz de controle de estoque, projetado para atender às necessidades de gestão de inventário de forma intuitiva e prática. O *Stock-It* foi pensado para pequenos negócios e freelancers que buscam uma ferramenta ágil e sem complicações para monitorar entradas e saídas de produtos, auxiliando no controle eficiente de cada item.
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## Funcionalidades
+- **Gerenciamento de produtos**: Adicione, edite ou remova itens facilmente do estoque.
+- **Controle de quantidades**: Atualize o número de unidades disponíveis e visualize mudanças em tempo real.
 
-## Getting Started
+## Tecnologias Utilizadas
+- **Linguagem**: Dart
+- **Framework**: Flutter
+- **Arquitetura**: Padrão BLoC, seguindo os princípios de SOLID para uma estrutura de código limpa e escalável.
 
-A few resources to get you started if this is your first Flutter project:
+## Como usar
+Baixe e execute o projeto, configure-o com suas credenciais e comece a acompanhar o controle de estoque de onde estiver.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+Sinta-se à vontade para contribuir e deixar sugestões!
